@@ -1,0 +1,26 @@
+
+FORWARD_SEQ: 'AGRGTTYGATYMTGGCTCAG'
+REVERSE_SEQ: 'TCYCAARCTARKACCGAGTC'
+FORWARD_COMP_SEQ: 'RGYTACCTTGTTACGACTT'
+REVERSE_COMP_SEQ: 'YCRATGGAACAATGCTGAA'
+
+SAMPLES : 
+- sample_lbc10
+- sample_lbc26
+- sample_lbc2
+- sample_lbc33
+- sample_lbc34
+- sample_lbc36
+- sample_lbc37
+- sample_lbc41
+- sample_lbc42
+- sample_lbc49
+- sample_lbc4
+- sample_lbc57
+- sample_lbc65
+- sample_lbc67
+- sample_lbc73
+- sample_lbc81
+- sample_lbc89
+- sample_lbc9
+
